@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string><![CDATA[let(:${2:${1:class}}) { FactoryGirl.create(:${1:class}${0}) }]]></string>
+	<key>name</key>
+	<string>let(factory)</string>
+	<key>scope</key>
+	<string>source.ruby.rspec</string>
+	<key>tabTrigger</key>
+	<string>letf</string>
+	<!-- <key>uuid</key>
+	<string>7F165347-6BF0-458B-AA0B-B8D8496C7607</string> -->
+</dict>
+</plist>

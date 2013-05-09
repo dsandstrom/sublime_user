@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${TM_RAILS_TEMPLATE_START_RUBY_EXPR}content_tag :${1:tag}, ${3:"${2:content}"}${TM_RAILS_TEMPLATE_END_RUBY_EXPR}]]></content>
+    <tabTrigger>contt</tabTrigger>
+    <scope>text.html.ruby, text.haml</scope>
+    <description>content tag</description>
+</snippet>

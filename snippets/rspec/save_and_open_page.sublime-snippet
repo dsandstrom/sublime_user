@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[save_and_open_page]]></content>
+  <description>Save and Open Page</description>
+  <tabTrigger>save</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+</snippet>

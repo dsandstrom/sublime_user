@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[<%= link_to "${1:remove}", ${2:model}, method: :delete, data: { confirm: "${3:Are you sure${4}?}" }, title: "${5:remove}" %>]]></content>
+  <tabTrigger>dest</tabTrigger>
+  <scope>text.html.ruby</scope>
+  <name>Destroy Link</name>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<!-- IE Shim for HTML5 -->
+<!--[if lt IE 9]><script src="dist/html5shiv.js"></script><![endif]-->
+]]></content>
+  <tabTrigger>html5shiv</tabTrigger>
+  <scope>text.html</scope>
+</snippet>

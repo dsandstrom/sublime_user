@@ -1,0 +1,97 @@
+{
+	"auto_indent": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.rbenv*"
+	],
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/Railscasts (Custom).tmTheme",
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"vendor",
+		"doc"
+	],
+	"font_size": 11.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Hayaku - tools for writing CSS faster",
+		"Syntax Highlighting for Sass",
+		"zoovy_plugins",
+		"Add License Stamp"
+	],
+	"indent_to_bracket": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"mouse_wheel_switches_tabs": false,
+	"remember_open_files": false,
+	"save_on_focus_lost": false,
+	"shift_tab_unindent": true,
+	"show_tab_close_buttons": false,
+	"spell_check": false,
+	"tab_completion": false,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"todo":
+	{
+		"case_sensitive": true,
+		"file_exclude_patterns":
+		[
+			"*.css",
+			"*.po",
+			"*.mo",
+			"*quickstart.js",
+			"*proxy-by-url.js",
+			"*jeditable.js",
+			"*.gitignore",
+			"*routing-proxy.js",
+			"*customTabs.js",
+			"*.backup"
+		],
+		"folder_exclude_patterns":
+		[
+			"static",
+			"vendor",
+			"tmp",
+			"log",
+			"extensions",
+			"201228",
+			"201245"
+		],
+		"patterns":
+		{
+			"BUG": "BUG[\\s]*?:+(?P<bug>.*)$",
+			"QUE": "QUE[\\s]*?:+(?P<question>.*)$"
+		},
+		"result_title": "TODO Results"
+	},
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~",
+	"word_wrap": false
+}
