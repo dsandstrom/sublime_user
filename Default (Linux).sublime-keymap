@@ -1,5 +1,13 @@
 [ 
+  // rails partial
+  { "keys": ["alt+p"], "command": "rails_partial"},
+  { "keys": ["ctrl+shift+o"], "command": "rails_partial", "args": {"open_partial": true}},
+  // rename file
   { "keys": ["shift+f5"], "command": "rename_file", "args": { "paths": ["$file"] } },
+  // open filename under cursor https://gist.github.com/jbjornson/1186126
+  { "keys": ["ctrl+shift+b"], "command": "open_filename_under_cursor"},
+  // open include
+  // { "keys": ["ctrl+shift+b"], "command": "open_include"},
   // { "keys": ["ctrl+shift+9"], "command": "add_license_stamp" },
   { "keys": ["ctrl+shift+c"], "command": "color_pick" },
   // { "keys": ["ctrl+#"], "command": "custom_toggle_comment", "args": { "block": false } },
@@ -94,7 +102,7 @@
 },
 { "keys": ["ctrl+shift+v"], "command": "paste_and_indent" },
 // { "keys": ["ctrl+b"], "command": "build" },
-{ "keys": ["ctrl+shift+b"], "command": "null" }, // disable build
+// { "keys": ["ctrl+shift+b"], "command": "null" }, // disable build
 { "keys": ["ctrl+b"], "command": "clipboard_display" },
 
 // Sublimism

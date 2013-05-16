@@ -1,4 +1,0 @@
-{
-	"last_test_run": "bundle exec rspec spec/controllers/seller_buyer_question_controller_spec.rb",
-	"last_test_working_dir": "/home/drail/Projects/boardlist"
-}

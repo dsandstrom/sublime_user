@@ -11,6 +11,18 @@
 	// Put your custom syntax rules here:
 	"syntaxes": [
     {
+      "name": "Ruby on Rails snippets/Ruby Haml",
+      "rules": [
+        {"file_name": ".*\\.haml$"}
+      ]
+    },
+    {
+      "name": "Ruby on Rails snippets/Ruby on Rails",
+      "rules": [
+        {"function": {"name": "is_rails_file"}}
+      ]
+    },
+    {
       "name": "Sass/Syntaxes/Sass",
       "rules": [
         {"file_name": ".*\\.sass$"}
