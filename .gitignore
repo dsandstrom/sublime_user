@@ -1,5 +1,7 @@
+TextMate-Themes
 TextMate-Themes/*
 *.pyc
 #plugins/*
 Package\ Control.*
 RubyTest.*
+ColorPicker/*
