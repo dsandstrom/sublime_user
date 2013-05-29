@@ -32,7 +32,8 @@
 		"CVS",
 		"vendor",
 		"doc",
-		"assets/images"
+		"assets/images",
+		"bin"
 	],
 	"font_size": 11.0,
 	"highlight_line": true,
@@ -40,12 +41,13 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Hayaku - tools for writing CSS faster",
+		"Open-Include",
 		"Syntax Highlighting for Sass",
+		"Vintage",
 		"Add License Stamp",
-		"zoovy_plugins",
-		"Open-Include"
+		"DetectSyntax",
+		"Hayaku - tools for writing CSS faster",
+		"zoovy_plugins"
 	],
 	"indent_to_bracket": false,
 	"line_padding_bottom": 2,

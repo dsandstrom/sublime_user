@@ -5,7 +5,7 @@
   // rename file
   { "keys": ["shift+f5"], "command": "rename_file", "args": { "paths": ["$file"] } },
   // open filename under cursor https://gist.github.com/jbjornson/1186126
-  { "keys": ["ctrl+shift+b"], "command": "open_filename_under_cursor"},
+  // { "keys": ["ctrl+shift+b"], "command": "open_filename_under_cursor"},
   // open include
   // { "keys": ["ctrl+shift+b"], "command": "open_include"},
   // { "keys": ["ctrl+shift+9"], "command": "add_license_stamp" },
