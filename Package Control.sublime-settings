@@ -1,0 +1,34 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"ApplySyntax",
+		"Automatic Backups",
+		"ChangeQuotes",
+		"Clipboard History",
+		"CoffeeScript",
+		"Color Highlighter",
+		"ColorPicker",
+		"DetectSyntax",
+		"Emmet",
+		"ERB Insert and Toggle Commands",
+		"ERB Snippets",
+		"Hayaku - tools for writing CSS faster",
+		"JavaScript Snippets",
+		"JS Snippets",
+		"MoveText",
+		"Open-Include",
+		"Package Control",
+		"Rails Partial",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"Ruby on Rails snippets",
+		"RubyTest",
+		"Sass",
+		"SublimeLinter",
+		"SublimeTODO",
+		"Syntax Highlighting for Sass",
+		"Theme - Soda"
+	]
+}
