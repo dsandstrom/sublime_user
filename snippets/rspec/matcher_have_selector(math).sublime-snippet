@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[RSpec::Matchers.define :${1:name} do${2: |${3:argument}|}
+  match do |${4:page}|
+    $4.should ${5:have_selector} ${6:"${7:class_or_id}"}
+  end
+end]]></content>
+  <tabTrigger>math</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>Matcher (have_selector)</description>
+</snippet>

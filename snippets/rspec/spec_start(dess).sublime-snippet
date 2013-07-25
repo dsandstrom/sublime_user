@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[require "spec_helper"
+
+describe ${1:"${2:spectype}"} do
+  subject { ${3:page} }
+  
+  $0
+end]]></content>
+  <tabTrigger>dess</tabTrigger>
+  <scope>source.ruby.rspec</scope>
+  <description>spec start</description>
+</snippet>

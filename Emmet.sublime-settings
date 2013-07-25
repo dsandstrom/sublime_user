@@ -1,3 +1,4 @@
 {
+  "disabled_single_snippet_for_scopes": "text.html, text.haml",
   "disable_tab_abbreviations_for_scopes": "source.sass, source.css"
 }

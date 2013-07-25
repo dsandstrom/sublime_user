@@ -1,0 +1,7 @@
+<snippet>
+  <!-- = link_to 'Destroy', image, :method => :delete, :data => { :confirm => 'Are you sure?' } -->
+  <content><![CDATA[${TM_RAILS_TEMPLATE_START_RUBY_EXPR}link_to ${1:"${2:Destroy}"}, ${3:object}, :method => :delete, :data => { :confirm => '${4:Are you sure?}' }${TM_RAILS_TEMPLATE_END_RUBY_EXPR}]]></content>
+  <tabTrigger>lind</tabTrigger>
+  <scope>text.html.ruby, text.haml</scope>
+  <description>link_to (destroy)</description>
+</snippet>

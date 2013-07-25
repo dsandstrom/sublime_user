@@ -10,5 +10,17 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+      {
+        "name": "JavaScript",
+        "rules": [
+          {"file_name": ".*js.php$"}
+        ]
+      },
+      {
+        "name": "CSS",
+        "rules": [
+          {"file_name": ".*css.php$"}
+        ]
+      }
     ]
 }

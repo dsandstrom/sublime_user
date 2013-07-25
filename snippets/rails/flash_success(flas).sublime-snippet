@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[flash[:success] = "${1:message}"]]></content>
+  <tabTrigger>flas</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>flash success</description>
+</snippet>

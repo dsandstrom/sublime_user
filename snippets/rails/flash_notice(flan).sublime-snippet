@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[flash[:${1:notice}] = "${2:message}"]]></content>
+  <tabTrigger>flan</tabTrigger>
+  <scope>source.ruby</scope>
+  <description>flash notice</description>
+</snippet>
