@@ -31,10 +31,10 @@
 		".hg",
 		"CVS",
 		"bin",
-		// "doc",
 		"vendor",
 		"assets/images",
-		".sass-cache"
+		".sass-cache",
+		"tmp/cache"
 	],
 	"font_size": 11.0,
 	"highlight_line": true,
@@ -47,6 +47,7 @@
 		"Vintage",
 		"Add License Stamp",
 		"DetectSyntax",
+		"Haml",
 		"Hayaku - tools for writing CSS faster",
 		"zoovy_plugins"
 	],
@@ -88,7 +89,8 @@
 			"extensions",
 			"201228",
 			"201245",
-			"coverage"
+			"coverage",
+			"images"
 		],
 		"patterns":
 		{

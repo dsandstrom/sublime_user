@@ -14,12 +14,14 @@
 		"Emmet",
 		"ERB Insert and Toggle Commands",
 		"ERB Snippets",
+		"Haml",
 		"Hayaku - tools for writing CSS faster",
 		"JavaScript Snippets",
 		"JS Snippets",
 		"MoveText",
 		"Open-Include",
 		"Package Control",
+		"Prefixr",
 		"Rails Partial",
 		"RSpec",
 		"RSpec (snippets and syntax)",
@@ -30,5 +32,9 @@
 		"SublimeTODO",
 		"Syntax Highlighting for Sass",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/pavelpachkovskij/sublime-html-to-haml/tree/SublimeText2"
 	]
 }
